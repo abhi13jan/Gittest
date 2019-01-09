@@ -1,5 +1,5 @@
 <ul>
-  <li>Coffee</li>
+  <li>Coffee new</li>
   <li>Tea</li>
   <li>Almond Milk</li>
   <li>Cookies</li>
